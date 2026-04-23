@@ -69,6 +69,13 @@ L'architecture a été conçue pour respecter une enveloppe budgétaire optimis�
 
 - **Conformité** : Alignement sur les standards ISO 27001/27017/27018 et les recommandations de l'ANSSI.
 
+
+---
+## Licence
+Ce projet est sous licence **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+Toute utilisation commerciale est strictement interdite sans autorisation préalable. Consultez le fichier [LICENSE](./LICENSE) pour plus de détails.
+
+---
 ## Auteur
 Rousseau Alexis - Administrateur Système - Architecte Cloud
 
